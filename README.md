@@ -39,7 +39,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql" height="25">
 &nbsp;
-<img src="https://img.shields.io/badge/-MongoDB-222222?style=flat&logo=node.js&logoColor=339933" height="25">
+<img src="https://img.shields.io/badge/-MongoDB-222222?style=flat&logoColor=339933" height="25">
 
 
 </p>
